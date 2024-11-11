@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package br.com.ifba.atividade06.view;
+package br.com.ifba.prg03.atividade06.view;
 
 import java.util.Arrays;
 import javax.swing.DefaultListModel;
